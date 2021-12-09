@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewBinding Demo</string>
+    <string name="update_text_button">Update the text through view binding!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unspecial_string">This is an unspecial string in an unspecial fragment.</string>
+</resources>
